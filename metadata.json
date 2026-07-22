@@ -1,0 +1,6 @@
+{
+  "name": "Bilancio Familiare",
+  "description": "Gestione spese della famiglia con categorie, grafici, supporto multilingua (Italiano/English) e salvataggio locale con Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
